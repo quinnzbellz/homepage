@@ -3,45 +3,40 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
+      { name: "Gmail", url: "https://inbox.google.com" },
+      { name: "ProtonMail", url: "https://mail.proton.me/u/0/inbox" },
       { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
     ],
   },
   {
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      { name: "RuTracker", url: "https://rutracker.org/forum/index.php" },
+      { name: "YTS", url: "https://yts.mx" },
+      { name: "1337X", url: "https://1337x.to/" },
     ],
   },
   {
     title: "Reddit",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
+      { name: "/r/madebygoogle", url: "https://www.reddit.com/r/madebygoogle/" },
       {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
+        name: "/r/breakingbenjamin",
+        url: "https://reddit.com/r/breakingbenjamin",
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
+      { name: "/r/pixelbuds", url: "https://reddit.com/r/pixelbuds" },
       {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
+        name: "/r/lastfm",
+        url: "https://reddit.com/r/lastfm",
       },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "/r/vinyl", url: "https://reddit.com/r/vinyl" },
     ],
   },
   {
     title: "Social",
     links: [
       { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
     ],
   },
 ];
